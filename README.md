@@ -1,10 +1,8 @@
-# installation
+## installation
 
 ```
 npm i
 ```
-
-# How to use
 
 ## developement
 
