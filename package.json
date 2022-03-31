@@ -1,0 +1,11 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "a simple react project template",
+  "main": "index.js",
+  "source": "src/assets/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  }
+}
